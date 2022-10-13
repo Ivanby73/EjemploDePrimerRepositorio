@@ -1,0 +1,160 @@
+.ancho{
+  width: 75%;
+  margin: auto;
+}
+body{
+  width: 100%;
+  border-top: 10px #FF3281 solid;
+  border-bottom: 10px #FF3281 solid;
+}
+.menu{
+  height: 100px;
+}
+.logocabecera{
+  float: left;
+}
+.redes{
+  float: right;
+  letter-spacing: 25px;
+  height: 100px;
+}
+.redes img{
+  margin-top: 20%;
+}
+.navegacion{
+  clear: both;
+  border: 5px black solid;
+  padding: 4px 0px;
+  text-align: center;
+}
+.navegacion a{
+  clear: both;
+  margin-right: 10%;
+  color: black;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.navegacion a:nth-child(4){
+    margin-right: 0px;
+}
+.promociones{
+  background-image: url(tarea_spa_maquetacion/imagenes/fondopiedras.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px;
+  text-align: center;
+}
+.texto{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: auto;
+}
+.texto p{
+  font-weight: bold;
+}
+.promociones a{
+  color: white;
+  text-decoration: none;
+}
+.solicitar_promocion{
+  background-color: #FF3281;
+  padding: 20px 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-right: 7%;
+  display: inline-block;
+}
+.ver_video{
+  border: 2px #FF3281 solid;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 18px 25px;
+  display: inline-block;
+}
+.texto1{
+  width: 450px;
+  height: 245px;
+  float: left;
+  vertical-align: middle;
+  line-height: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.info1 img{
+  width: 350px;
+  float: right;
+  vertical-align: middle;
+}
+.secciones{
+  clear: both;
+  text-align: center;
+  background-color: #FFF9F1;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px 0px;
+}
+.seccion1 img{
+  float: left;
+  width: 500px;
+}
+.seccion2{
+  clear: both;
+  text-align: center;
+}
+.puestos{
+  width: 490px;
+  float: right;
+  margin-left: 0px;
+}
+.puesto h4{
+  text-align: left;
+  font-size: 18px;
+}
+.puesto p{
+  font-size: 14px;
+  text-align: left;
+}
+.masajes{
+  float: left;
+  height: 390px;
+}
+.tratamientos{
+  margin: auto;
+  line-height: 17px;
+}
+.mascarilla{
+  float: right;
+}
+.partes{
+  background-color: #FFE8A4;
+  width: 200px;
+  border-radius: 8px;
+  padding: 30px 30px;
+}
+.partes img{
+  border-radius: 100px;
+  border: 6px white solid;
+  width: 130px;
+}
+.seccion2 p{
+  font-size: 14px;
+}
+.seccion2 h4{
+  font-size: 14px;
+}
+.ver_mas{
+  text-decoration: none;
+  color: white;
+  background-color: #FF3281;
+  padding: 10px 15px;
+}
+.logofinal{
+  clear: both;
+  text-align: center;
+  padding: 30px;
+  line-height: 5px;
+}
+.logofinal img{
+  width: 130px;
+}
+.logofinal span{
+  color: #FF3281;
+}
